@@ -1,3 +1,3 @@
-FROM ghcr.io/mgerwec/cwamdmodla:latest
-# ENV PORT=3000
-# EXPOSE 3000
+FROM ghcr.io/mgerwec/jdxtppup3:latest
+ENV PORT=8080
+EXPOSE 8080
