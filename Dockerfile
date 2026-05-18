@@ -1,3 +1,3 @@
 FROM ghcr.io/mgerwec/noxtppup3:latest
-ENV PORT=8080
-EXPOSE 8080
+ENV PORT=3000
+EXPOSE 3000
